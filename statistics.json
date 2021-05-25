@@ -1,0 +1,715 @@
+{
+  "Ships statistic": [
+    {
+      "Name": "Ship №14",
+      "Date of arriving": "Fri Mar 01 05:56:30 MSK 121",
+      "Time of waiting": "0 days 00:00:00",
+      "Date of unloading": "Fri Mar 01 05:56:30 MSK 121",
+      "Time of unloading": "1 days 03:14:00"
+    },
+    {
+      "Name": "Ship №57",
+      "Date of arriving": "Sun Mar 03 07:46:00 MSK 121",
+      "Time of waiting": "0 days 00:00:30",
+      "Date of unloading": "Sun Mar 03 07:46:30 MSK 121",
+      "Time of unloading": "0 days 08:18:00"
+    },
+    {
+      "Name": "Ship №51",
+      "Date of arriving": "Tue Mar 05 02:06:56 MSK 121",
+      "Time of waiting": "0 days 00:00:34",
+      "Date of unloading": "Tue Mar 05 02:07:30 MSK 121",
+      "Time of unloading": "0 days 10:38:00"
+    },
+    {
+      "Name": "Ship №42",
+      "Date of arriving": "Tue Mar 05 05:52:13 MSK 121",
+      "Time of waiting": "0 days 00:00:17",
+      "Date of unloading": "Tue Mar 05 05:52:30 MSK 121",
+      "Time of unloading": "1 days 09:59:00"
+    },
+    {
+      "Name": "Ship №30",
+      "Date of arriving": "Wed Mar 06 03:22:55 MSK 121",
+      "Time of waiting": "0 days 00:00:35",
+      "Date of unloading": "Wed Mar 06 03:23:30 MSK 121",
+      "Time of unloading": "2 days 07:22:00"
+    },
+    {
+      "Name": "Ship №53",
+      "Date of arriving": "Sat Mar 09 01:45:17 MSK 121",
+      "Time of waiting": "0 days 00:00:13",
+      "Date of unloading": "Sat Mar 09 01:45:30 MSK 121",
+      "Time of unloading": "1 days 22:02:00"
+    },
+    {
+      "Name": "Ship №26",
+      "Date of arriving": "Sun Mar 10 04:36:51 MSK 121",
+      "Time of waiting": "0 days 00:00:39",
+      "Date of unloading": "Sun Mar 10 04:37:30 MSK 121",
+      "Time of unloading": "0 days 22:00:00"
+    },
+    {
+      "Name": "Ship №41",
+      "Date of arriving": "Mon Mar 11 11:49:18 MSK 121",
+      "Time of waiting": "0 days 06:17:12",
+      "Date of unloading": "Mon Mar 11 18:06:30 MSK 121",
+      "Time of unloading": "0 days 03:32:00"
+    },
+    {
+      "Name": "Ship №56",
+      "Date of arriving": "Mon Mar 11 17:32:33 MSK 121",
+      "Time of waiting": "0 days 03:55:57",
+      "Date of unloading": "Mon Mar 11 21:28:30 MSK 121",
+      "Time of unloading": "2 days 04:31:00"
+    },
+    {
+      "Name": "Ship №71",
+      "Date of arriving": "Mon Mar 11 22:37:46 MSK 121",
+      "Time of waiting": "0 days 15:27:44",
+      "Date of unloading": "Tue Mar 12 14:05:30 MSK 121",
+      "Time of unloading": "0 days 06:16:00"
+    },
+    {
+      "Name": "Ship №60",
+      "Date of arriving": "Tue Mar 12 07:09:38 MSK 121",
+      "Time of waiting": "1 days 05:48:52",
+      "Date of unloading": "Wed Mar 13 12:58:30 MSK 121",
+      "Time of unloading": "0 days 13:59:00"
+    },
+    {
+      "Name": "Ship №11",
+      "Date of arriving": "Wed Mar 13 16:31:17 MSK 121",
+      "Time of waiting": "0 days 09:42:13",
+      "Date of unloading": "Thu Mar 14 02:13:30 MSK 121",
+      "Time of unloading": "1 days 17:23:00"
+    },
+    {
+      "Name": "Ship №35",
+      "Date of arriving": "Thu Mar 14 09:11:35 MSK 121",
+      "Time of waiting": "0 days 00:00:55",
+      "Date of unloading": "Thu Mar 14 09:12:30 MSK 121",
+      "Time of unloading": "0 days 14:26:00"
+    },
+    {
+      "Name": "Ship №80",
+      "Date of arriving": "Thu Mar 14 17:01:44 MSK 121",
+      "Time of waiting": "0 days 09:25:46",
+      "Date of unloading": "Fri Mar 15 02:27:30 MSK 121",
+      "Time of unloading": "1 days 01:27:00"
+    },
+    {
+      "Name": "Ship №16",
+      "Date of arriving": "Fri Mar 15 14:18:12 MSK 121",
+      "Time of waiting": "1 days 02:58:18",
+      "Date of unloading": "Sat Mar 16 17:16:30 MSK 121",
+      "Time of unloading": "0 days 19:19:00"
+    },
+    {
+      "Name": "Ship №4",
+      "Date of arriving": "Sun Mar 17 12:29:56 MSK 121",
+      "Time of waiting": "0 days 00:00:34",
+      "Date of unloading": "Sun Mar 17 12:30:30 MSK 121",
+      "Time of unloading": "1 days 13:43:00"
+    },
+    {
+      "Name": "Ship №76",
+      "Date of arriving": "Mon Mar 18 02:21:12 MSK 121",
+      "Time of waiting": "0 days 00:22:18",
+      "Date of unloading": "Mon Mar 18 02:43:30 MSK 121",
+      "Time of unloading": "2 days 03:37:00"
+    },
+    {
+      "Name": "Ship №87",
+      "Date of arriving": "Tue Mar 19 07:35:22 MSK 121",
+      "Time of waiting": "0 days 00:00:08",
+      "Date of unloading": "Tue Mar 19 07:35:30 MSK 121",
+      "Time of unloading": "0 days 20:31:00"
+    },
+    {
+      "Name": "Ship №73",
+      "Date of arriving": "Tue Mar 19 13:56:05 MSK 121",
+      "Time of waiting": "1 days 06:06:25",
+      "Date of unloading": "Wed Mar 20 20:02:30 MSK 121",
+      "Time of unloading": "2 days 02:23:00"
+    },
+    {
+      "Name": "Ship №31",
+      "Date of arriving": "Tue Mar 19 14:01:54 MSK 121",
+      "Time of waiting": "1 days 09:25:36",
+      "Date of unloading": "Wed Mar 20 23:27:30 MSK 121",
+      "Time of unloading": "0 days 07:26:00"
+    },
+    {
+      "Name": "Ship №83",
+      "Date of arriving": "Tue Mar 19 22:21:57 MSK 121",
+      "Time of waiting": "1 days 12:44:33",
+      "Date of unloading": "Thu Mar 21 11:06:30 MSK 121",
+      "Time of unloading": "1 days 20:35:00"
+    },
+    {
+      "Name": "Ship №93",
+      "Date of arriving": "Wed Mar 20 14:55:58 MSK 121",
+      "Time of waiting": "2 days 22:48:32",
+      "Date of unloading": "Sat Mar 23 13:44:30 MSK 121",
+      "Time of unloading": "0 days 21:16:00"
+    },
+    {
+      "Name": "Ship №1",
+      "Date of arriving": "Sat Mar 23 04:11:41 MSK 121",
+      "Time of waiting": "0 days 15:37:49",
+      "Date of unloading": "Sat Mar 23 19:49:30 MSK 121",
+      "Time of unloading": "0 days 22:26:00"
+    },
+    {
+      "Name": "Ship №81",
+      "Date of arriving": "Sun Mar 24 09:40:44 MSK 121",
+      "Time of waiting": "0 days 09:13:46",
+      "Date of unloading": "Sun Mar 24 18:54:30 MSK 121",
+      "Time of unloading": "1 days 16:35:00"
+    },
+    {
+      "Name": "Ship №55",
+      "Date of arriving": "Mon Mar 25 21:40:00 MSK 121",
+      "Time of waiting": "0 days 00:00:30",
+      "Date of unloading": "Mon Mar 25 21:40:30 MSK 121",
+      "Time of unloading": "1 days 06:59:00"
+    },
+    {
+      "Name": "Ship №90",
+      "Date of arriving": "Thu Mar 28 02:55:27 MSK 121",
+      "Time of waiting": "0 days 00:00:03",
+      "Date of unloading": "Thu Mar 28 02:55:30 MSK 121",
+      "Time of unloading": "1 days 01:21:00"
+    },
+    {
+      "Name": "Ship №24",
+      "Date of arriving": "Thu Mar 28 04:56:07 MSK 121",
+      "Time of waiting": "0 days 00:00:23",
+      "Date of unloading": "Thu Mar 28 04:56:30 MSK 121",
+      "Time of unloading": "0 days 13:39:00"
+    },
+    {
+      "Name": "Ship №61",
+      "Date of arriving": "Thu Mar 28 18:00:19 MSK 121",
+      "Time of waiting": "0 days 05:14:11",
+      "Date of unloading": "Thu Mar 28 23:14:30 MSK 121",
+      "Time of unloading": "0 days 19:12:00"
+    },
+    {
+      "Name": "Ship №78",
+      "Date of arriving": "Fri Mar 29 15:26:31 MSK 121",
+      "Time of waiting": "0 days 00:00:59",
+      "Date of unloading": "Fri Mar 29 15:27:30 MSK 121",
+      "Time of unloading": "0 days 08:59:00"
+    },
+    {
+      "Name": "Ship №95",
+      "Date of arriving": "Fri Mar 29 17:01:26 MSK 121",
+      "Time of waiting": "0 days 04:14:04",
+      "Date of unloading": "Fri Mar 29 21:15:30 MSK 121",
+      "Time of unloading": "1 days 16:22:00"
+    },
+    {
+      "Name": "Ship №28",
+      "Date of arriving": "Sat Mar 30 09:20:46 MSK 121",
+      "Time of waiting": "0 days 06:26:44",
+      "Date of unloading": "Sat Mar 30 15:47:30 MSK 121",
+      "Time of unloading": "1 days 17:03:00"
+    },
+    {
+      "Name": "Ship №98",
+      "Date of arriving": "Thu Feb 28 07:55:15 MSK 121",
+      "Time of waiting": "0 days 00:00:00",
+      "Date of unloading": "Thu Feb 28 07:55:15 MSK 121",
+      "Time of unloading": "1 days 00:56:00"
+    },
+    {
+      "Name": "Ship №67",
+      "Date of arriving": "Fri Mar 01 01:04:17 MSK 121",
+      "Time of waiting": "0 days 00:00:58",
+      "Date of unloading": "Fri Mar 01 01:05:15 MSK 121",
+      "Time of unloading": "1 days 22:03:00"
+    },
+    {
+      "Name": "Ship №99",
+      "Date of arriving": "Fri Mar 01 04:49:53 MSK 121",
+      "Time of waiting": "0 days 00:00:22",
+      "Date of unloading": "Fri Mar 01 04:50:15 MSK 121",
+      "Time of unloading": "2 days 02:42:00"
+    },
+    {
+      "Name": "Ship №5",
+      "Date of arriving": "Fri Mar 01 08:42:43 MSK 121",
+      "Time of waiting": "0 days 01:38:32",
+      "Date of unloading": "Fri Mar 01 10:21:15 MSK 121",
+      "Time of unloading": "2 days 04:18:00"
+    },
+    {
+      "Name": "Ship №50",
+      "Date of arriving": "Sat Mar 02 09:53:21 MSK 121",
+      "Time of waiting": "1 days 03:15:54",
+      "Date of unloading": "Sun Mar 03 13:09:15 MSK 121",
+      "Time of unloading": "1 days 10:24:00"
+    },
+    {
+      "Name": "Ship №40",
+      "Date of arriving": "Mon Mar 04 23:02:21 MSK 121",
+      "Time of waiting": "0 days 00:00:54",
+      "Date of unloading": "Mon Mar 04 23:03:15 MSK 121",
+      "Time of unloading": "0 days 04:07:00"
+    },
+    {
+      "Name": "Ship №43",
+      "Date of arriving": "Tue Mar 05 01:08:06 MSK 121",
+      "Time of waiting": "0 days 00:00:09",
+      "Date of unloading": "Tue Mar 05 01:08:15 MSK 121",
+      "Time of unloading": "1 days 16:10:00"
+    },
+    {
+      "Name": "Ship №92",
+      "Date of arriving": "Tue Mar 05 22:16:04 MSK 121",
+      "Time of waiting": "0 days 00:00:11",
+      "Date of unloading": "Tue Mar 05 22:16:15 MSK 121",
+      "Time of unloading": "1 days 20:13:00"
+    },
+    {
+      "Name": "Ship №36",
+      "Date of arriving": "Wed Mar 06 00:38:48 MSK 121",
+      "Time of waiting": "0 days 00:00:27",
+      "Date of unloading": "Wed Mar 06 00:39:15 MSK 121",
+      "Time of unloading": "0 days 09:17:00"
+    },
+    {
+      "Name": "Ship №69",
+      "Date of arriving": "Wed Mar 06 03:11:05 MSK 121",
+      "Time of waiting": "0 days 14:02:10",
+      "Date of unloading": "Wed Mar 06 17:13:15 MSK 121",
+      "Time of unloading": "1 days 14:25:00"
+    },
+    {
+      "Name": "Ship №33",
+      "Date of arriving": "Wed Mar 06 11:36:15 MSK 121",
+      "Time of waiting": "0 days 13:30:00",
+      "Date of unloading": "Thu Mar 07 01:06:15 MSK 121",
+      "Time of unloading": "2 days 01:11:00"
+    },
+    {
+      "Name": "Ship №84",
+      "Date of arriving": "Thu Mar 07 04:48:51 MSK 121",
+      "Time of waiting": "1 days 12:57:24",
+      "Date of unloading": "Fri Mar 08 17:46:15 MSK 121",
+      "Time of unloading": "2 days 05:38:00"
+    },
+    {
+      "Name": "Ship №20",
+      "Date of arriving": "Sat Mar 09 00:33:52 MSK 121",
+      "Time of waiting": "0 days 00:00:23",
+      "Date of unloading": "Sat Mar 09 00:34:15 MSK 121",
+      "Time of unloading": "2 days 11:01:00"
+    },
+    {
+      "Name": "Ship №12",
+      "Date of arriving": "Sun Mar 10 19:31:15 MSK 121",
+      "Time of waiting": "0 days 00:00:00",
+      "Date of unloading": "Sun Mar 10 19:31:15 MSK 121",
+      "Time of unloading": "2 days 03:27:00"
+    },
+    {
+      "Name": "Ship №62",
+      "Date of arriving": "Mon Mar 11 00:25:13 MSK 121",
+      "Time of waiting": "0 days 18:50:02",
+      "Date of unloading": "Mon Mar 11 19:15:15 MSK 121",
+      "Time of unloading": "0 days 18:01:00"
+    },
+    {
+      "Name": "Ship №25",
+      "Date of arriving": "Wed Mar 13 06:42:52 MSK 121",
+      "Time of waiting": "0 days 00:00:23",
+      "Date of unloading": "Wed Mar 13 06:43:15 MSK 121",
+      "Time of unloading": "1 days 11:03:00"
+    },
+    {
+      "Name": "Ship №88",
+      "Date of arriving": "Wed Mar 13 14:13:17 MSK 121",
+      "Time of waiting": "0 days 00:00:58",
+      "Date of unloading": "Wed Mar 13 14:14:15 MSK 121",
+      "Time of unloading": "2 days 06:25:00"
+    },
+    {
+      "Name": "Ship №47",
+      "Date of arriving": "Thu Mar 14 15:29:18 MSK 121",
+      "Time of waiting": "0 days 00:00:57",
+      "Date of unloading": "Thu Mar 14 15:30:15 MSK 121",
+      "Time of unloading": "2 days 13:11:00"
+    },
+    {
+      "Name": "Ship №68",
+      "Date of arriving": "Thu Mar 14 19:39:43 MSK 121",
+      "Time of waiting": "0 days 19:19:32",
+      "Date of unloading": "Fri Mar 15 14:59:15 MSK 121",
+      "Time of unloading": "1 days 02:53:00"
+    },
+    {
+      "Name": "Ship №91",
+      "Date of arriving": "Sat Mar 16 23:34:57 MSK 121",
+      "Time of waiting": "0 days 00:00:18",
+      "Date of unloading": "Sat Mar 16 23:35:15 MSK 121",
+      "Time of unloading": "0 days 08:55:00"
+    },
+    {
+      "Name": "Ship №46",
+      "Date of arriving": "Tue Mar 19 10:10:51 MSK 121",
+      "Time of waiting": "0 days 00:00:24",
+      "Date of unloading": "Tue Mar 19 10:11:15 MSK 121",
+      "Time of unloading": "1 days 11:06:00"
+    },
+    {
+      "Name": "Ship №0",
+      "Date of arriving": "Tue Mar 19 18:11:33 MSK 121",
+      "Time of waiting": "0 days 00:00:42",
+      "Date of unloading": "Tue Mar 19 18:12:15 MSK 121",
+      "Time of unloading": "1 days 04:53:00"
+    },
+    {
+      "Name": "Ship №72",
+      "Date of arriving": "Wed Mar 20 10:08:57 MSK 121",
+      "Time of waiting": "0 days 00:00:18",
+      "Date of unloading": "Wed Mar 20 10:09:15 MSK 121",
+      "Time of unloading": "2 days 00:37:00"
+    },
+    {
+      "Name": "Ship №3",
+      "Date of arriving": "Fri Mar 22 15:35:32 MSK 121",
+      "Time of waiting": "0 days 00:00:43",
+      "Date of unloading": "Fri Mar 22 15:36:15 MSK 121",
+      "Time of unloading": "0 days 13:35:00"
+    },
+    {
+      "Name": "Ship №94",
+      "Date of arriving": "Sat Mar 23 07:08:44 MSK 121",
+      "Time of waiting": "0 days 00:00:31",
+      "Date of unloading": "Sat Mar 23 07:09:15 MSK 121",
+      "Time of unloading": "1 days 17:17:00"
+    },
+    {
+      "Name": "Ship №21",
+      "Date of arriving": "Mon Mar 25 13:56:07 MSK 121",
+      "Time of waiting": "0 days 00:00:08",
+      "Date of unloading": "Mon Mar 25 13:56:15 MSK 121",
+      "Time of unloading": "0 days 17:05:00"
+    },
+    {
+      "Name": "Ship №2",
+      "Date of arriving": "Tue Mar 26 15:09:41 MSK 121",
+      "Time of waiting": "0 days 00:00:34",
+      "Date of unloading": "Tue Mar 26 15:10:15 MSK 121",
+      "Time of unloading": "1 days 12:37:00"
+    },
+    {
+      "Name": "Ship №82",
+      "Date of arriving": "Sat Mar 30 10:32:38 MSK 121",
+      "Time of waiting": "0 days 00:00:37",
+      "Date of unloading": "Sat Mar 30 10:33:15 MSK 121",
+      "Time of unloading": "1 days 00:25:00"
+    },
+    {
+      "Name": "Ship №85",
+      "Date of arriving": "Sat Mar 30 12:57:30 MSK 121",
+      "Time of waiting": "0 days 00:00:45",
+      "Date of unloading": "Sat Mar 30 12:58:15 MSK 121",
+      "Time of unloading": "1 days 18:51:00"
+    },
+    {
+      "Name": "Ship №39",
+      "Date of arriving": "Thu Feb 28 01:42:28 MSK 121",
+      "Time of waiting": "0 days 00:00:00",
+      "Date of unloading": "Thu Feb 28 01:42:28 MSK 121",
+      "Time of unloading": "0 days 21:44:00"
+    },
+    {
+      "Name": "Ship №75",
+      "Date of arriving": "Fri Mar 01 11:14:44 MSK 121",
+      "Time of waiting": "0 days 00:00:44",
+      "Date of unloading": "Fri Mar 01 11:15:28 MSK 121",
+      "Time of unloading": "1 days 04:07:00"
+    },
+    {
+      "Name": "Ship №8",
+      "Date of arriving": "Sun Mar 03 03:39:47 MSK 121",
+      "Time of waiting": "0 days 00:00:41",
+      "Date of unloading": "Sun Mar 03 03:40:28 MSK 121",
+      "Time of unloading": "1 days 03:18:00"
+    },
+    {
+      "Name": "Ship №7",
+      "Date of arriving": "Sun Mar 03 17:59:27 MSK 121",
+      "Time of waiting": "0 days 00:00:01",
+      "Date of unloading": "Sun Mar 03 17:59:28 MSK 121",
+      "Time of unloading": "0 days 14:15:00"
+    },
+    {
+      "Name": "Ship №9",
+      "Date of arriving": "Sun Mar 03 18:00:33 MSK 121",
+      "Time of waiting": "0 days 00:00:55",
+      "Date of unloading": "Sun Mar 03 18:01:28 MSK 121",
+      "Time of unloading": "1 days 05:56:00"
+    },
+    {
+      "Name": "Ship №37",
+      "Date of arriving": "Mon Mar 04 16:14:16 MSK 121",
+      "Time of waiting": "0 days 00:00:12",
+      "Date of unloading": "Mon Mar 04 16:14:28 MSK 121",
+      "Time of unloading": "0 days 06:09:00"
+    },
+    {
+      "Name": "Ship №54",
+      "Date of arriving": "Tue Mar 05 02:01:46 MSK 121",
+      "Time of waiting": "0 days 01:14:42",
+      "Date of unloading": "Tue Mar 05 03:16:28 MSK 121",
+      "Time of unloading": "0 days 22:21:00"
+    },
+    {
+      "Name": "Ship №18",
+      "Date of arriving": "Tue Mar 05 02:16:50 MSK 121",
+      "Time of waiting": "0 days 15:51:38",
+      "Date of unloading": "Tue Mar 05 18:08:28 MSK 121",
+      "Time of unloading": "0 days 17:19:00"
+    },
+    {
+      "Name": "Ship №29",
+      "Date of arriving": "Tue Mar 05 05:35:56 MSK 121",
+      "Time of waiting": "0 days 20:25:32",
+      "Date of unloading": "Wed Mar 06 02:01:28 MSK 121",
+      "Time of unloading": "0 days 08:28:00"
+    },
+    {
+      "Name": "Ship №23",
+      "Date of arriving": "Tue Mar 05 12:08:56 MSK 121",
+      "Time of waiting": "1 days 06:34:32",
+      "Date of unloading": "Wed Mar 06 18:43:28 MSK 121",
+      "Time of unloading": "0 days 18:17:00"
+    },
+    {
+      "Name": "Ship №86",
+      "Date of arriving": "Tue Mar 05 23:39:04 MSK 121",
+      "Time of waiting": "1 days 06:20:24",
+      "Date of unloading": "Thu Mar 07 05:59:28 MSK 121",
+      "Time of unloading": "0 days 15:38:00"
+    },
+    {
+      "Name": "Ship №32",
+      "Date of arriving": "Wed Mar 06 02:46:55 MSK 121",
+      "Time of waiting": "1 days 07:41:33",
+      "Date of unloading": "Thu Mar 07 10:28:28 MSK 121",
+      "Time of unloading": "0 days 21:04:00"
+    },
+    {
+      "Name": "Ship №13",
+      "Date of arriving": "Sun Mar 10 03:41:57 MSK 121",
+      "Time of waiting": "0 days 00:00:31",
+      "Date of unloading": "Sun Mar 10 03:42:28 MSK 121",
+      "Time of unloading": "1 days 00:43:00"
+    },
+    {
+      "Name": "Ship №10",
+      "Date of arriving": "Mon Mar 11 10:10:09 MSK 121",
+      "Time of waiting": "0 days 00:00:19",
+      "Date of unloading": "Mon Mar 11 10:10:28 MSK 121",
+      "Time of unloading": "0 days 09:07:00"
+    },
+    {
+      "Name": "Ship №65",
+      "Date of arriving": "Wed Mar 13 11:37:48 MSK 121",
+      "Time of waiting": "0 days 00:00:40",
+      "Date of unloading": "Wed Mar 13 11:38:28 MSK 121",
+      "Time of unloading": "0 days 16:00:00"
+    },
+    {
+      "Name": "Ship №45",
+      "Date of arriving": "Wed Mar 13 15:53:30 MSK 121",
+      "Time of waiting": "0 days 00:00:58",
+      "Date of unloading": "Wed Mar 13 15:54:28 MSK 121",
+      "Time of unloading": "1 days 00:03:00"
+    },
+    {
+      "Name": "Ship №49",
+      "Date of arriving": "Thu Mar 14 07:22:35 MSK 121",
+      "Time of waiting": "0 days 00:00:53",
+      "Date of unloading": "Thu Mar 14 07:23:28 MSK 121",
+      "Time of unloading": "1 days 14:04:00"
+    },
+    {
+      "Name": "Ship №27",
+      "Date of arriving": "Fri Mar 15 04:26:03 MSK 121",
+      "Time of waiting": "0 days 00:00:25",
+      "Date of unloading": "Fri Mar 15 04:26:28 MSK 121",
+      "Time of unloading": "0 days 19:13:00"
+    },
+    {
+      "Name": "Ship №70",
+      "Date of arriving": "Fri Mar 15 12:35:26 MSK 121",
+      "Time of waiting": "0 days 00:00:02",
+      "Date of unloading": "Fri Mar 15 12:35:28 MSK 121",
+      "Time of unloading": "0 days 17:13:00"
+    },
+    {
+      "Name": "Ship №79",
+      "Date of arriving": "Fri Mar 15 18:45:37 MSK 121",
+      "Time of waiting": "0 days 03:22:51",
+      "Date of unloading": "Fri Mar 15 22:08:28 MSK 121",
+      "Time of unloading": "1 days 01:58:00"
+    },
+    {
+      "Name": "Ship №22",
+      "Date of arriving": "Sat Mar 16 00:48:44 MSK 121",
+      "Time of waiting": "0 days 16:07:44",
+      "Date of unloading": "Sat Mar 16 16:56:28 MSK 121",
+      "Time of unloading": "1 days 04:47:00"
+    },
+    {
+      "Name": "Ship №77",
+      "Date of arriving": "Sat Mar 16 03:45:15 MSK 121",
+      "Time of waiting": "1 days 00:35:13",
+      "Date of unloading": "Sun Mar 17 04:20:28 MSK 121",
+      "Time of unloading": "0 days 20:25:00"
+    },
+    {
+      "Name": "Ship №19",
+      "Date of arriving": "Sat Mar 16 03:53:34 MSK 121",
+      "Time of waiting": "1 days 13:11:54",
+      "Date of unloading": "Sun Mar 17 17:05:28 MSK 121",
+      "Time of unloading": "1 days 02:37:00"
+    },
+    {
+      "Name": "Ship №96",
+      "Date of arriving": "Sun Mar 17 08:22:08 MSK 121",
+      "Time of waiting": "0 days 18:36:20",
+      "Date of unloading": "Mon Mar 18 02:58:28 MSK 121",
+      "Time of unloading": "1 days 07:03:00"
+    },
+    {
+      "Name": "Ship №52",
+      "Date of arriving": "Mon Mar 18 02:18:53 MSK 121",
+      "Time of waiting": "0 days 12:16:35",
+      "Date of unloading": "Mon Mar 18 14:35:28 MSK 121",
+      "Time of unloading": "1 days 09:09:00"
+    },
+    {
+      "Name": "Ship №17",
+      "Date of arriving": "Wed Mar 20 10:55:06 MSK 121",
+      "Time of waiting": "0 days 00:00:22",
+      "Date of unloading": "Wed Mar 20 10:55:28 MSK 121",
+      "Time of unloading": "1 days 03:56:00"
+    },
+    {
+      "Name": "Ship №59",
+      "Date of arriving": "Wed Mar 20 14:02:27 MSK 121",
+      "Time of waiting": "0 days 00:00:01",
+      "Date of unloading": "Wed Mar 20 14:02:28 MSK 121",
+      "Time of unloading": "0 days 16:23:00"
+    },
+    {
+      "Name": "Ship №38",
+      "Date of arriving": "Thu Mar 21 01:39:02 MSK 121",
+      "Time of waiting": "0 days 00:00:26",
+      "Date of unloading": "Thu Mar 21 01:39:28 MSK 121",
+      "Time of unloading": "0 days 19:28:00"
+    },
+    {
+      "Name": "Ship №34",
+      "Date of arriving": "Thu Mar 21 13:48:38 MSK 121",
+      "Time of waiting": "0 days 01:14:50",
+      "Date of unloading": "Thu Mar 21 15:03:28 MSK 121",
+      "Time of unloading": "0 days 15:02:00"
+    },
+    {
+      "Name": "Ship №15",
+      "Date of arriving": "Fri Mar 22 01:21:34 MSK 121",
+      "Time of waiting": "0 days 00:00:54",
+      "Date of unloading": "Fri Mar 22 01:22:28 MSK 121",
+      "Time of unloading": "1 days 10:05:00"
+    },
+    {
+      "Name": "Ship №66",
+      "Date of arriving": "Fri Mar 22 19:19:53 MSK 121",
+      "Time of waiting": "0 days 00:00:35",
+      "Date of unloading": "Fri Mar 22 19:20:28 MSK 121",
+      "Time of unloading": "0 days 14:23:00"
+    },
+    {
+      "Name": "Ship №6",
+      "Date of arriving": "Sun Mar 24 18:20:27 MSK 121",
+      "Time of waiting": "0 days 00:00:01",
+      "Date of unloading": "Sun Mar 24 18:20:28 MSK 121",
+      "Time of unloading": "0 days 16:52:00"
+    },
+    {
+      "Name": "Ship №97",
+      "Date of arriving": "Mon Mar 25 21:58:29 MSK 121",
+      "Time of waiting": "0 days 00:00:59",
+      "Date of unloading": "Mon Mar 25 21:59:28 MSK 121",
+      "Time of unloading": "1 days 06:09:00"
+    },
+    {
+      "Name": "Ship №64",
+      "Date of arriving": "Tue Mar 26 11:55:13 MSK 121",
+      "Time of waiting": "0 days 00:00:15",
+      "Date of unloading": "Tue Mar 26 11:55:28 MSK 121",
+      "Time of unloading": "0 days 04:04:00"
+    },
+    {
+      "Name": "Ship №58",
+      "Date of arriving": "Wed Mar 27 13:10:13 MSK 121",
+      "Time of waiting": "0 days 00:00:15",
+      "Date of unloading": "Wed Mar 27 13:10:28 MSK 121",
+      "Time of unloading": "0 days 17:00:00"
+    },
+    {
+      "Name": "Ship №48",
+      "Date of arriving": "Wed Mar 27 21:29:54 MSK 121",
+      "Time of waiting": "0 days 00:00:34",
+      "Date of unloading": "Wed Mar 27 21:30:28 MSK 121",
+      "Time of unloading": "0 days 21:03:00"
+    },
+    {
+      "Name": "Ship №44",
+      "Date of arriving": "Thu Mar 28 13:24:33 MSK 121",
+      "Time of waiting": "0 days 00:00:55",
+      "Date of unloading": "Thu Mar 28 13:25:28 MSK 121",
+      "Time of unloading": "0 days 05:08:00"
+    },
+    {
+      "Name": "Ship №74",
+      "Date of arriving": "Fri Mar 29 16:42:44 MSK 121",
+      "Time of waiting": "0 days 00:00:44",
+      "Date of unloading": "Fri Mar 29 16:43:28 MSK 121",
+      "Time of unloading": "0 days 10:58:00"
+    },
+    {
+      "Name": "Ship №89",
+      "Date of arriving": "Sat Mar 30 09:10:16 MSK 121",
+      "Time of waiting": "0 days 00:00:12",
+      "Date of unloading": "Sat Mar 30 09:10:28 MSK 121",
+      "Time of unloading": "0 days 04:08:00"
+    },
+    {
+      "Name": "Ship №63",
+      "Date of arriving": "Sat Mar 30 13:42:55 MSK 121",
+      "Time of waiting": "0 days 00:00:33",
+      "Date of unloading": "Sat Mar 30 13:43:28 MSK 121",
+      "Time of unloading": "2 days 06:49:00"
+    }
+  ],
+  "GlobalStatistic:": {
+    "Num": 100,
+    "Average queue length": 1.7400000095367432,
+    "Average time of waiting": "0 days 06:53:40",
+    "Max unload delay": "0 days 23:22:00",
+    "Average delay time": "0 days 11:05:12",
+    "Fine": 220700,
+    "Container Cranes": 4,
+    "Liquid Cranes": 5,
+    "Loose Cranes": 5
+  }
+}
